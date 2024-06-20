@@ -1,2 +1,5 @@
-# Trabalho_c
- Trabalho_C Delphi
+# Tutoriais basicos
+Tutorias de programação e configurações;
+Tutoriais de Correção de Bugs;
+Passo a passo e dicas.
+

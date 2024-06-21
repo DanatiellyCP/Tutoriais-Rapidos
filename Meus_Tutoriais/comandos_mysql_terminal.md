@@ -81,7 +81,7 @@ Consultas de Dados
 ### Criar índice
 - CREATE INDEX [nome_do_indice] ON [nome_da_tabela] ([colunas]);
 
-# Apagar índice
+### Apagar índice
 - DROP INDEX [nome_do_indice] ON [nome_da_tabela];
 
 ## 7 - Transações:
@@ -133,7 +133,7 @@ mysqldump -u [usuário] -p [nome_do_banco] > [arquivo.sql]
 ### Encerrar uma sessão de conexão
 EXIT;
 
-- Esta lista cobre os comandos mais utilizados no MySQL/MariaDB. 
+*Esta lista cobre os comandos mais utilizados no MySQL/MariaDB.* 
 
 
 

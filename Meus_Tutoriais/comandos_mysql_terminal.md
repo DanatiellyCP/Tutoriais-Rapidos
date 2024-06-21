@@ -51,32 +51,32 @@
 ### Apagar uma tabela
 - DROP TABLE [nome_da_tabela];
 
-# Renomear uma tabela
+### Renomear uma tabela
 - RENAME TABLE [nome_antigo] TO [nome_novo];
 
-# Adicionar coluna
+### Adicionar coluna
 - ALTER TABLE [nome_da_tabela] ADD [nome_da_coluna] [tipo_de_dado] [opções];
 
-# Apagar coluna
+### Apagar coluna
 - ALTER TABLE [nome_da_tabela] DROP COLUMN [nome_da_coluna];
 
-# Modificar coluna
+### Modificar coluna
 - ALTER TABLE [nome_da_tabela] MODIFY [nome_da_coluna] [novo_tipo_de_dado] [novas_opções];
 Consultas de Dados
 
-# Selecionar dados
+### Selecionar dados
 - SELECT [colunas] FROM [tabela] WHERE [condições];
 
-# Inserir dados
+### Inserir dados
 - INSERT INTO [tabela] ([colunas]) VALUES ([valores]);
 
-# Atualizar dados
+### Atualizar dados
 - UPDATE [tabela] SET [coluna] = [valor] WHERE [condições];
 
-# Apagar dados
+### Apagar dados
 - DELETE FROM [tabela] WHERE [condições];
 
-### 6 - Índices:
+## 6 - Índices:
 
 ### Criar índice
 - CREATE INDEX [nome_do_indice] ON [nome_da_tabela] ([colunas]);

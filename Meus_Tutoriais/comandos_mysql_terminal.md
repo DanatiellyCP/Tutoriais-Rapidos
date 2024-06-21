@@ -76,7 +76,7 @@ Consultas de Dados
 # Apagar dados
 - DELETE FROM [tabela] WHERE [condições];
 
-## 6 - Índices:
+### 6 - Índices:
 
 ### Criar índice
 - CREATE INDEX [nome_do_indice] ON [nome_da_tabela] ([colunas]);

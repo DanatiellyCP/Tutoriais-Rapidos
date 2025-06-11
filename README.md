@@ -4,8 +4,8 @@ Repositório destinado a dicas de desenvolvimento, com passo a passo de como sol
 ##
 A maior parte dos arquivos desse projeto estarão disponibilizado no formato (.ipynb), a ideia é facilitar e documentar processos, que são mais comumente usados, na programação e na configuração de ambientes de desenvolvimento.
 ##
-–	Um segundo passo é a criação de tutoriais mais robustos, para isso vou abrir *issues* especificas.
-–	Por enquanto estou colocando dicas das ferramentas que mais uso, mas podem ser criados  novos documentos, conforme o tempo e a necessidade.
+- Um segundo passo é a criação de tutoriais mais robustos, para isso vou abrir *issues* especificas.
+-   Por enquanto estou colocando dicas das ferramentas que mais uso, mas podem ser criados  novos documentos, conforme o tempo e a necessidade.
 
 
 
